@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF154C9B</color>
+    <color name="black">#000000</color>
+    <color name="black_light">#5E5B5B</color>
+    <color name="colorPrimaryDark">#041F7E</color>
+    <color name="colorAccent">#FFCF5F</color>
+    <color name="blue_color">#605AFF</color>
+    <color name="dark_grey">#696969</color>
+    <color name="white_color">#ffffff</color>
+    <color name="white_light">#9F9A9A</color>
+    <color name="active_dot_color">#FFCF5F</color>
+    <color name="normal_dot_color">#94696969</color>
+    <color name="green_color">#4CAF50</color>
+    <color name="transparent">#004CAF50</color>
+</resources>
